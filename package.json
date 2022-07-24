@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -37,8 +37,27 @@
   },
   "name": "@prakashdalecom/react-bootstrap",
   "description": "Bootstrap react components",
-  "author": "prakashdale.com",
+  "author": {
+    "name": "prakashdale.com",
+    "email": "admin@prakashdale.com"
+  },
   "module": "dist/pd-react-components.esm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashdale-com/pd-react-components.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "react",
+    "component",
+    "components",
+    "ecosystem-react",
+    "react-component"
+  ],
+  "homepage": "https://prakashdale.com/",
+  "bugs": {
+    "url": "https://github.com/prakashdale-com/pd-react-components/issues"
+  },
   "size-limit": [
     {
       "path": "dist/pd-react-components.cjs.production.min.js",

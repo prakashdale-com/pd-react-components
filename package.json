@@ -36,7 +36,8 @@
     "trailingComma": "es5"
   },
   "name": "pd-react-components",
-  "author": "Prakash Dale",
+  "description": "Bootstrap react components",
+  "author": "prakashdale.com",
   "module": "dist/pd-react-components.esm.js",
   "size-limit": [
     {
